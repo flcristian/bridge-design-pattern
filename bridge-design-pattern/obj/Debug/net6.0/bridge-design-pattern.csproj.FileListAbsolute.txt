@@ -1,0 +1,14 @@
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\bin\Debug\net6.0\bridge-design-pattern.exe
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\bin\Debug\net6.0\bridge-design-pattern.deps.json
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\bin\Debug\net6.0\bridge-design-pattern.runtimeconfig.json
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\bin\Debug\net6.0\bridge-design-pattern.dll
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\bin\Debug\net6.0\bridge-design-pattern.pdb
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\bridge-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\bridge-design-pattern.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\bridge-design-pattern.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\bridge-design-pattern.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\bridge-design-pattern.dll
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\refint\bridge-design-pattern.dll
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\bridge-design-pattern.pdb
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\bridge-design-pattern.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\bridge-design-pattern\bridge-design-pattern\obj\Debug\net6.0\ref\bridge-design-pattern.dll
